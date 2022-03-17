@@ -12,11 +12,14 @@
     "index.js"
   ],
   "peerDependencies": {
-    "typescript": ">3.1.0",
-    "eslint": ">5.0.0"
+    "eslint": ">5.0.0",
+    "typescript": ">3.1.0"
   },
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.1.0"
+  "version": "0.2.0-dev.2",
+  "dependencies": {
+    "eslint-plugin-react": "^7.29.4"
+  }
 }

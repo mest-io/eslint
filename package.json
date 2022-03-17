@@ -1,6 +1,6 @@
 {
   "name": "@mest-fe/eslint-config",
-  "version": "0.1.0",
+  "version": "0.2.0-dev.2",
   "main": "index.js",
   "license": "MIT",
   "description": "ESLint configuration for MEST team",
