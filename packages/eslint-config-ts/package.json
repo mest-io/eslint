@@ -5,7 +5,7 @@
   "description": "Eslint configuration for MEST team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mest/eslint"
+    "url": "https://github.com/mest-io/eslint"
   },
   "author": "MEST Team",
   "files": [
