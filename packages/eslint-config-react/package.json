@@ -18,7 +18,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.2.0-dev.2",
+  "version": "0.2.0",
   "dependencies": {
     "eslint-plugin-react": "^7.29.4"
   }
