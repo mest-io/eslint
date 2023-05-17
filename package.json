@@ -1,6 +1,6 @@
 {
   "name": "@mest-fe/eslint-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "index.js",
   "license": "MIT",
   "description": "ESLint configuration for MEST team",
@@ -19,8 +19,8 @@
   },
   "devDependencies": {
     "@mest-fe/prettier": "latest",
-    "@types/node": "^14.11.8",
-    "prettier": "^2.3.2"
+    "@types/node": "^14.18.47",
+    "prettier": "^2.8.8"
   },
   "publishConfig": {
     "access": "public"
